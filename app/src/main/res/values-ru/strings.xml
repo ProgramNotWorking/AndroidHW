@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroidHW</string>
+    <string name="to_second_screen">На второй экран</string>
+    <string name="first_screen">Первый экран</string>
+    <string name="second_screen">Второй экран</string>
+    <string name="third_screen">Третий экран</string>
+    <string name="to_third_screen">На третий экран</string>
+    <string name="back_to_first_screen">Обратно на первый экран</string>
+    <string name="back_to_second_screen">Обратно на второй экран</string>
+</resources>
