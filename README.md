@@ -7,6 +7,7 @@
 * [NavigationDestination](https://github.com/ProgramNotWorking/AndroidHW/blob/master/app/src/main/java/com/example/androidhw/task1/base/NavigationDestination.kt) - sealed класс для определения точки навигации
 * [NavigationFragment](https://github.com/ProgramNotWorking/AndroidHW/blob/master/app/src/main/java/com/example/androidhw/task1/base/NavigationFragment.kt) - абстрактный класс, предоставляющий функцию навигации
 * [NavigationManager](https://github.com/ProgramNotWorking/AndroidHW/blob/master/app/src/main/java/com/example/androidhw/task1/base/NavigationManager.kt) - класс, содержащий реализацию навигации между экранами
+
 `Fragments`:
 * [Здесь](https://github.com/ProgramNotWorking/AndroidHW/tree/master/app/src/main/java/com/example/androidhw/task1/fragments) содержатся фрагменты для данной задачи
 
