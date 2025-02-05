@@ -9,7 +9,7 @@ import com.example.androidhw.task1.base.FragmentNavigationConstants
 import com.example.androidhw.task1.base.NavigationFragment
 
 class ThirdFragment : NavigationFragment() {
-    
+
     override val backstackTag: String
         get() = FragmentNavigationConstants.STUB
 
