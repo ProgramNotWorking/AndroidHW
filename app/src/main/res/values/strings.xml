@@ -7,4 +7,7 @@
     <string name="to_third_screen">To thrid screen</string>
     <string name="back_to_first_screen">Back to first screen</string>
     <string name="back_to_second_screen">Back to second screen</string>
+    <string name="device_on_charge">Device on charge</string>
+    <string name="charging_device">Charging device</string>
+    <string name="notification_persmission_explanation">Please, turn on notifications on that app</string>
 </resources>

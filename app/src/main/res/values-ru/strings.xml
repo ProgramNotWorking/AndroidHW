@@ -8,4 +8,7 @@
     <string name="to_third_screen">На третий экран</string>
     <string name="back_to_first_screen">Обратно на первый экран</string>
     <string name="back_to_second_screen">Обратно на второй экран</string>
+    <string name="device_on_charge">Устройство на зарядке</string>
+    <string name="charging_device">Устройство заряжается</string>
+    <string name="notification_persmission_explanation">Пожалуйста, включите уведомления для этого приложения</string>
 </resources>
