@@ -12,3 +12,7 @@
 * [Здесь](https://github.com/ProgramNotWorking/AndroidHW/tree/master/app/src/main/java/com/example/androidhw/task1/fragments) содержатся фрагменты для данной задачи
 
 ## Задача2: Один раз запланировать WorkManager, который будет присылать уведомление о том, что устройство находится на зарядке
+
+## Задача3: Реализовать небольшую кастомную вью в виде прямоугольника. При каждом нажатии на него он заполняется на 10%, цвет залитой части рандомно меняется. При достижении 100% все начинается заново.
+* [AcitivityForCustomView](https://github.com/ProgramNotWorking/AndroidHW/blob/master/app/src/main/java/com/example/androidhw/task3/ActivityForCustomView.kt) - активность в которой лежит вьюха
+* [TouchFilledView](https://github.com/ProgramNotWorking/AndroidHW/blob/master/app/src/main/java/com/example/androidhw/task3/TouchFilledView.kt) - кастомная вьюха из задачи
